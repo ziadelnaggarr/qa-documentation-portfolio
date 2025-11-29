@@ -8,7 +8,7 @@ A simple chatbot API plus QA tests demonstrating API testing, intent detection, 
   source venv/bin/activate
   pip install -r requirements.txt
 
-Start server:
+2. Start server:
   uvicorn app.main:app --reload --port 8000
 
 3. Run tests:
